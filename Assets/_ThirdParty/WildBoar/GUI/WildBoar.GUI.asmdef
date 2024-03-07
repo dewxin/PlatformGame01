@@ -1,0 +1,16 @@
+{
+    "name": "WildBoar.GUI",
+    "rootNamespace": "WildBoar.GUI",
+    "references": [
+        "GUID:25bf4a2fa54615449aa0bb13df95f23a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

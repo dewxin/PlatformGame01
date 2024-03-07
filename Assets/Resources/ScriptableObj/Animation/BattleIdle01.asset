@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace140ec332919445846cce4adc2c43f, type: 3}
+  m_Name: BattleIdle01
+  m_EditorClassIdentifier: 
+  ActionAnimName: 
+  Duration: 0.6
+  SpriteAnimIdList:
+  - AnimEnum: 1
+    FrameID: 0
+  - AnimEnum: 1
+    FrameID: 1
+  - AnimEnum: 1
+    FrameID: 2
+  - AnimEnum: 1
+    FrameID: 3

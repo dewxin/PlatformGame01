@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0240d152de1ce4f44b316b534c618b27, type: 3}
+  m_Name: SubSkill_Charge
+  m_EditorClassIdentifier: 
+  parent: {fileID: 11400000, guid: ed3064fe79d907044b4e169c1a1f31b1, type: 2}
+  Duration: 0.5
+  ActionAnimation: {fileID: 11400000, guid: e60f1a14ca068ae4c874739ad1b25b33, type: 2}
+  SoundId: 1004
+  Damage: 0
+  SelfEffectList:
+  - {fileID: 11400000, guid: 7e3b6328263305b45853d94a916f7c83, type: 2}
+  - {fileID: 11400000, guid: 2f2f8861aec6ec442a52567a41c34055, type: 2}
+  EffectOnEventList: []

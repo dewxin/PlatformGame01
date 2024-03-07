@@ -1,0 +1,3074 @@
+fileFormatVersion: 2
+guid: c3d7d358d40b6d54c92f4d744a1114e7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 4
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mu2-0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 457
+        height: 641
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f270dc7350fb11ac0800000000000000
+      internalID: -3886114974312102097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mutou2-0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 457
+        height: 640
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1064f4789901dfd80800000000000000
+      internalID: -8215391893667756543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mutou1-0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1283
+        width: 385
+        height: 640
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90177de7e06c8d3c0800000000000000
+      internalID: -4334496875784212215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mu1-0
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1283
+        width: 383
+        height: 640
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8946551f577ff10800000000000000
+      internalID: 2303439413803522271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chengmen002-0
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 469
+        height: 477
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50e6eee24493dfc0800000000000000
+      internalID: -3471267872575659938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niaochao3-0
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 478
+        width: 587
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd66234f772607840800000000000000
+      internalID: 5219780235459978972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chengmen001-0
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 0
+        width: 455
+        height: 475
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3733f9f27b306e190800000000000000
+      internalID: -7933649608253688973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhu003-0
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 850
+        width: 495
+        height: 416
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a0f37a805b7e6f0800000000000000
+      internalID: -655356171988825578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niaochao1-0
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1267
+        width: 478
+        height: 422
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a907120c43e1c700800000000000000
+      internalID: 558977744362736040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuan001-0
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1690
+        width: 684
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24b2473cf394a3c0800000000000000
+      internalID: -4349188628664896469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuan002-0
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 850
+        width: 652
+        height: 278
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522e32a1f4b426c10800000000000000
+      internalID: 2045279983892685349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhu004-0
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1129
+        width: 444
+        height: 403
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddf44bea6fed65a0800000000000000
+      internalID: -6526297042497241646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dong3-0
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 476
+        width: 529
+        height: 331
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2c35085cef40400800000000000000
+      internalID: 289636400273539803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: niaochao2-0
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 0
+        width: 453
+        height: 352
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9afcdc2946b4300800000000000000
+      internalID: 237393987048024575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naocao001-0
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 353
+        width: 376
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f839bc9387d276540800000000000000
+      internalID: 5001015905607193487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yidaoguan1-0
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 0
+        width: 652
+        height: 223
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cca49b5d41d79a0800000000000000
+      internalID: -6233803401041622012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangzi004-0
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1533
+        width: 357
+        height: 398
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f961597d8d408f40800000000000000
+      internalID: 5728663996036377078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangzi003-0
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 758
+        width: 360
+        height: 360
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d103033508e6d40800000000000000
+      internalID: 5579538083137723770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qiao001_4-0
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 1119
+        width: 289
+        height: 403
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7803f9546f8301e80800000000000000
+      internalID: -8209999490315243385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xiaozhangpeng1-0
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 224
+        width: 598
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e62f0790070402f0800000000000000
+      internalID: -1007672717508401434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mutou4-0
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1523
+        width: 279
+        height: 385
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0ba643ccdfd0ee0800000000000000
+      internalID: -1293098464490901287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qiao001_3-0
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 406
+        width: 289
+        height: 358
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae5e7e378ca4c280800000000000000
+      internalID: -9023898056474599765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shu001-0
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 765
+        width: 275
+        height: 375
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecb1b4007870a450800000000000000
+      internalID: 6098006317970078950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mutou3-0
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 406
+        width: 291
+        height: 334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd7aeccd3f01c180800000000000000
+      internalID: -9096973014206349860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhu002-0
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1141
+        width: 278
+        height: 347
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590ec7ce3dc2c9fb0800000000000000
+      internalID: -4639784227381124971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shu002-0
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 741
+        width: 288
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad0c04be949883b0800000000000000
+      internalID: -5509990734741369425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qian002_2-0
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 1489
+        width: 254
+        height: 367
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1963cd4cd086260800000000000000
+      internalID: 7090932752454160819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangzi002-0
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1070
+        width: 346
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219bf31a5a6380450800000000000000
+      internalID: 6055149784002443538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhu001-0
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 741
+        width: 267
+        height: 307
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1032fab77d0f440800000000000000
+      internalID: 4967707315208913322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qian001_1-0
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 406
+        width: 254
+        height: 316
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d8ef056b8e3efe0800000000000000
+      internalID: -1160828409190904457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangzi001-0
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 0
+        width: 352
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6424eda1e3a2e630800000000000000
+      internalID: 3954903612465095787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ccaoting1-0
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 227
+        width: 272
+        height: 281
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eff5890b87a5f9b0800000000000000
+      internalID: -5046943591796703263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qiao001_1-0
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 1311
+        width: 262
+        height: 276
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27260625f8a106c00800000000000000
+      internalID: 891741929084052082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qiao001_2-0
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 1049
+        width: 289
+        height: 238
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84785ed1319a885e0800000000000000
+      internalID: -1907088542620350648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yidaoguan2-0
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 0
+        width: 330
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b253205c95ce090800000000000000
+      internalID: -8003923735063745677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xiaozhangpeng2-0
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 509
+        width: 336
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3075823238d8b4640800000000000000
+      internalID: 5065297800278333187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xiaozhangpeng3-0
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 188
+        width: 333
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a254db7ffb58b1690800000000000000
+      internalID: -7630358084107549398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qian002_1-0
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 684
+        width: 255
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189f02f7d6b652040800000000000000
+      internalID: 4622218710594156929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caotai001-0
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 0
+        width: 323
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3cfaf211c26a580800000000000000
+      internalID: -8816310768205052947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zicaotai001-0
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 881
+        width: 323
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9170450ee034c77f0800000000000000
+      internalID: -613541718057023719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naocao002-0
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 1588
+        width: 175
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4998902d60753300800000000000000
+      internalID: 231214569880066379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naocao007-0
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 1588
+        width: 172
+        height: 257
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b0608625f522ba0800000000000000
+      internalID: -6115220536478528681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wu004-0
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 1288
+        width: 175
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b1392076435bbd0800000000000000
+      internalID: -2615126391589233862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shi003-0
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 1541
+        width: 146
+        height: 294
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199ce92f605271d60800000000000000
+      internalID: 7860792386369014161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naocao005-0
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 1288
+        width: 148
+        height: 245
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f9b82b4788197d0800000000000000
+      internalID: -2913397449138921636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: qian001_2-0
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 363
+        width: 255
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ca46de3ce27b030800000000000000
+      internalID: 3510325853594889291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tengzi-0
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 1534
+        width: 106
+        height: 333
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926580d316ca36990800000000000000
+      internalID: -7393876629576460759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wu003-0
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 1846
+        width: 187
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1962f8415482525d0800000000000000
+      internalID: -3088017692329826671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zicaotai002-0
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 227
+        width: 211
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22def5f13c6bab820800000000000000
+      internalID: 2934859056346557730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caotai002-0
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 1857
+        width: 211
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdb715ad298bbdf0800000000000000
+      internalID: -163386132332560948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weigan-0
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 1033
+        width: 142
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6da987b6990e8f0800000000000000
+      internalID: -513241670656272672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wei001-0
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 1857
+        width: 212
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe812fc3713f7eb0800000000000000
+      internalID: -4719999510994907461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muti001-0
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 1255
+        width: 97
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262f6b5497443f510800000000000000
+      internalID: 1581683181788525154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hua1-0
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1932
+        width: 370
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48f8383857e32710800000000000000
+      internalID: 1667430653143611471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lenteng002-0
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 1556
+        width: 102
+        height: 261
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f47a72ff73a7a90800000000000000
+      internalID: -7315473075688485029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guanmu001-0
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1909
+        width: 215
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbfc5ba7a52ed100800000000000000
+      internalID: 134586440932457428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wei003-0
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1533
+        width: 167
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3169db60952d2690800000000000000
+      internalID: -7625397291853455042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guanmu002-0
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1129
+        width: 207
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017d7629626cbe5a0800000000000000
+      internalID: -6490876568957102320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xing007-0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1924
+        width: 250
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ac512a5bebd1b60800000000000000
+      internalID: 7718535023700593160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mutai003-0
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 684
+        width: 145
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed31e4d254558c930800000000000000
+      internalID: 4163671611105219550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mutai004-0
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 504
+        width: 135
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c9db33eb6eab8b0800000000000000
+      internalID: -5135538720476390343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wei002-0
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 1836
+        width: 109
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912123cf8b34c7a50800000000000000
+      internalID: 6520160822309818905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cao0003-0
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1924
+        width: 311
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71aea57e82bdcf50800000000000000
+      internalID: 6903370128758317439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitaijie-0
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1924
+        width: 196
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c8329818ae11600800000000000000
+      internalID: 437388480904137820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wu002-0
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 1868
+        width: 96
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db162d9f3ad727d70800000000000000
+      internalID: 9039425545310462397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batai004-0
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1964
+        width: 206
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7474be3653deac7b0800000000000000
+      internalID: -5203085605907773625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xinti-0
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 353
+        width: 151
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a0a71cbd90048b0800000000000000
+      internalID: -5170121532772840828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huacao10-0
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 1868
+        width: 118
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc5e510c90ef64f0800000000000000
+      internalID: -833200445397771047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mutai001-0
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1982
+        width: 199
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3622d53d9d6771ec0800000000000000
+      internalID: -3596275099505974685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mutaidy-0
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1129
+        width: 86
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3296240ac82d62180800000000000000
+      internalID: -9140386892275881693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hua003-0
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1964
+        width: 128
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a5325d1482d9c30800000000000000
+      internalID: 4367691476833098385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shu001-0
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1311
+        width: 65
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecb1b4007870a450800000000000000
+      internalID: 6098006317970078950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mogu_b3-0
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1964
+        width: 138
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8036bb64f84fb07c0800000000000000
+      internalID: -4103917739213888760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xin002-0
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 224
+        width: 83
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179cc7edfa626f1b0800000000000000
+      internalID: -5623264547931633295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mutaidy002-0
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 1033
+        width: 80
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e75efa2cd8b5b0c0800000000000000
+      internalID: -4560535791889131544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batai002-0
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 1998
+        width: 183
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ba79a4c29a023b0800000000000000
+      internalID: -5539241533970601179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batai001-0
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1964
+        width: 180
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9182827425a11f0800000000000000
+      internalID: -1073455095604569651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batai003-0
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 1971
+        width: 121
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540c1233a7f174700800000000000000
+      internalID: 524422491316273221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hua4-0
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2006
+        width: 196
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d84d6634cae1100800000000000000
+      internalID: 80691248827239731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hua5-0
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 1146
+        width: 118
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac59c1939e730a20800000000000000
+      internalID: 3027402546794290338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hua001-0
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 1033
+        width: 102
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95978ef6ab7edf800800000000000000
+      internalID: 647928709338659161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mogu_c2-0
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 1818
+        width: 111
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816bb44bbdeba5300800000000000000
+      internalID: 241715380849718808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xin004-0
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 1882
+        width: 61
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0663e48d2a0531230800000000000000
+      internalID: 3608316386797827680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xin003-0
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 1882
+        width: 75
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f6519e1a3298920800000000000000
+      internalID: 2992962605671608203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xin001-0
+      rect:
+        serializedVersion: 2
+        x: 3141
+        y: 831
+        width: 68
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510965e3cc8335820800000000000000
+      internalID: 2905728634454446101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batai005-0
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 0
+        width: 60
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a57ad948ec6a9480800000000000000
+      internalID: -8891674769362356825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cao1-0
+      rect:
+        serializedVersion: 2
+        x: 3141
+        y: 930
+        width: 68
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b294c51323873b00800000000000000
+      internalID: 808258844848591540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hua7-0
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 1973
+        width: 110
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db6f66d67ef59400800000000000000
+      internalID: 330449934038821846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shi002-0
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 831
+        width: 89
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b79a29da85e05fa0800000000000000
+      internalID: -5813894734423615561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naocao009-0
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 109
+        width: 56
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30e327f7a738f120800000000000000
+      internalID: 2447767592021254202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xinti2-0
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 902
+        width: 120
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd020892dc38c700800000000000000
+      internalID: 560765028798696897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wu001-0
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 953
+        width: 74
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b94900caa74abde0800000000000000
+      internalID: -1316661142360602190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huacao9-0
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 654
+        width: 85
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2a3bed6fd4a9aa0800000000000000
+      internalID: -6153520218154753318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hua2-0
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 188
+        width: 140
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd19dd5fcade11e0800000000000000
+      internalID: -2225100581706850830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mogu_c3-0
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 719
+        width: 85
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521516568f8d8fbc0800000000000000
+      internalID: -3749008128421572315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shu004-0
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 780
+        width: 82
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5fdca9b6c0b7410800000000000000
+      internalID: 1475786959192192465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hua009-0
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 842
+        width: 85
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4973ed52064415a10800000000000000
+      internalID: 1896372097842558868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanqiang001-0
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 504
+        width: 86
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbd14c43e0e0d600800000000000000
+      internalID: 491139626224966580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zicaotai003-0
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 561
+        width: 69
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610d0ec92d5e3a6a0800000000000000
+      internalID: -6439050349471805418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caotai003-0
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 363
+        width: 69
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85221355a30cd21a0800000000000000
+      internalID: -6832593702881254824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hua005-0
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 432
+        width: 93
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d081e274132a31e0800000000000000
+      internalID: -2217421295792848688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhusun3-0
+      rect:
+        serializedVersion: 2
+        x: 3404
+        y: 363
+        width: 87
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6451a3e596809cff0800000000000000
+      internalID: -15471875073632954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hua004-0
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 1208
+        width: 91
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2494b75b92b5f4e00800000000000000
+      internalID: 1031143074387675458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mogu_c1-0
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 630
+        width: 76
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ce95d0334fa8cc0800000000000000
+      internalID: -3707882843081675634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanqiang002-0
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 780
+        width: 80
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5413df1a5b183a4e0800000000000000
+      internalID: -1971589594751356603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huacao11-0
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2006
+        width: 89
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcff4fe617991e0c0800000000000000
+      internalID: -4548185436195586099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hua3-0
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1489
+        width: 103
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f636c4834efef15a0800000000000000
+      internalID: -6548251569697299601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cao002-0
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1909
+        width: 48
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d302f433a5c1670800000000000000
+      internalID: 8510776572240739618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cao004-0
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 682
+        width: 43
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8981f39b8db4c150800000000000000
+      internalID: 5892042619687635340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shi001-0
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 1818
+        width: 86
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccc4faf131c4f1b0800000000000000
+      internalID: -5623657614271001407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhusun1-0
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 1995
+        width: 56
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5754f8e53e0e8bf00800000000000000
+      internalID: 1132902573432325493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lanqiang003-0
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 1541
+        width: 73
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31db1533fa3f28c0800000000000000
+      internalID: -4021931125976084164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shu003-0
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 434
+        width: 82
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21486e2f636833040800000000000000
+      internalID: 4626188812801180690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mogu_b1-0
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 561
+        width: 52
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d239612fd3cf54470800000000000000
+      internalID: 8378380024777446189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitai001-0
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1455
+        width: 80
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af3a6b51157cd6b0800000000000000
+      internalID: -5270208746521739353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xin006-0
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1978
+        width: 49
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370ab742885a302d0800000000000000
+      internalID: -3313622896668336013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xin005-0
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 483
+        width: 48
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1090e993c8fca6090800000000000000
+      internalID: -8040385983547569919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cao001-0
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 831
+        width: 54
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7de49cbfae02d30800000000000000
+      internalID: 4404778802703423438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hua007-0
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 682
+        width: 52
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc7830232abee490800000000000000
+      internalID: -7715024451611886398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mogu_b2-0
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 729
+        width: 51
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1dd33ae16374dc0800000000000000
+      internalID: -3654893067372211804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shitai002-0
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 434
+        width: 64
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb086bee1614bd80800000000000000
+      internalID: -8235933496499500038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shidun001-0
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 2005
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc11f3629c02467b0800000000000000
+      internalID: -5232020818795490865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shidun002-0
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 2011
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d647848bc3baccf90800000000000000
+      internalID: -6931977449151892371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: denglong002-0
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 758
+        width: 27
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38195b332e554a170800000000000000
+      internalID: 8188764452484911491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hua006-0
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2011
+        width: 57
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3e1b4bbd64f2b70800000000000000
+      internalID: 8876391300013876193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: denglong001-0
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 224
+        width: 26
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8656fbb9d95e4d140800000000000000
+      internalID: 4743668772613612904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: denglong003-0
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 353
+        width: 26
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253d2dacd3647a4f0800000000000000
+      internalID: -817607576134692014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hua002-0
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 2011
+        width: 52
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f62847064d59c840800000000000000
+      internalID: 5244825796400916211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvcao003-0
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 2005
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713af8507b234f660800000000000000
+      internalID: 7418610247839752983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhusun2-0
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 1998
+        width: 33
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eb65fb9ae938b70800000000000000
+      internalID: 8900131740511026714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvcao002-0
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 188
+        width: 31
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fa68e55f55f76e0800000000000000
+      internalID: -1837655610602639562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caobian-0
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 1255
+        width: 39
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ea2679d15805ec0800000000000000
+      internalID: -3580215341619171829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lvcao001-0
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1964
+        width: 29
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5593b1b5c25b8a50800000000000000
+      internalID: 6524399494219666783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cao003-0
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 757
+        width: 34
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf712fff3db50bd0800000000000000
+      internalID: -2664515521958805562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      batai001-0: -1073455095604569651
+      batai002-0: -5539241533970601179
+      batai003-0: 524422491316273221
+      batai004-0: -5203085605907773625
+      batai005-0: -8891674769362356825
+      cao0003-0: 6903370128758317439
+      cao001-0: 4404778802703423438
+      cao002-0: 8510776572240739618
+      cao003-0: -2664515521958805562
+      cao004-0: 5892042619687635340
+      cao1-0: 808258844848591540
+      caobian-0: -3580215341619171829
+      caotai001-0: -8816310768205052947
+      caotai002-0: -163386132332560948
+      caotai003-0: -6832593702881254824
+      ccaoting1-0: -5046943591796703263
+      chengmen001-0: -7933649608253688973
+      chengmen002-0: -3471267872575659938
+      chuan001-0: -4349188628664896469
+      chuan002-0: 2045279983892685349
+      denglong001-0: 4743668772613612904
+      denglong002-0: 8188764452484911491
+      denglong003-0: -817607576134692014
+      dong3-0: 289636400273539803
+      fangzi001-0: 3954903612465095787
+      fangzi002-0: 6055149784002443538
+      fangzi003-0: 5579538083137723770
+      fangzi004-0: 5728663996036377078
+      guanmu001-0: 134586440932457428
+      guanmu002-0: -6490876568957102320
+      hua001-0: 647928709338659161
+      hua002-0: 5244825796400916211
+      hua003-0: 4367691476833098385
+      hua004-0: 1031143074387675458
+      hua005-0: -2217421295792848688
+      hua006-0: 8876391300013876193
+      hua007-0: -7715024451611886398
+      hua009-0: 1896372097842558868
+      hua1-0: 1667430653143611471
+      hua2-0: -2225100581706850830
+      hua3-0: -6548251569697299601
+      hua4-0: 80691248827239731
+      hua5-0: 3027402546794290338
+      hua7-0: 330449934038821846
+      huacao10-0: -833200445397771047
+      huacao11-0: -4548185436195586099
+      huacao9-0: -6153520218154753318
+      lanqiang001-0: 491139626224966580
+      lanqiang002-0: -1971589594751356603
+      lanqiang003-0: -4021931125976084164
+      lenteng002-0: -7315473075688485029
+      lvcao001-0: 6524399494219666783
+      lvcao002-0: -1837655610602639562
+      lvcao003-0: 7418610247839752983
+      mogu_b1-0: 8378380024777446189
+      mogu_b2-0: -3654893067372211804
+      mogu_b3-0: -4103917739213888760
+      mogu_c1-0: -3707882843081675634
+      mogu_c2-0: 241715380849718808
+      mogu_c3-0: -3749008128421572315
+      mu1-0: 2303439413803522271
+      mu2-0: -3886114974312102097
+      mutai001-0: -3596275099505974685
+      mutai003-0: 4163671611105219550
+      mutai004-0: -5135538720476390343
+      mutaidy-0: -9140386892275881693
+      mutaidy002-0: -4560535791889131544
+      muti001-0: 1581683181788525154
+      mutou1-0: -4334496875784212215
+      mutou2-0: -8215391893667756543
+      mutou3-0: -9096973014206349860
+      mutou4-0: -1293098464490901287
+      naocao001-0: 5001015905607193487
+      naocao002-0: 231214569880066379
+      naocao005-0: -2913397449138921636
+      naocao007-0: -6115220536478528681
+      naocao009-0: 2447767592021254202
+      niaochao1-0: 558977744362736040
+      niaochao2-0: 237393987048024575
+      niaochao3-0: 5219780235459978972
+      qian001_1-0: -1160828409190904457
+      qian001_2-0: 3510325853594889291
+      qian002_1-0: 4622218710594156929
+      qian002_2-0: 7090932752454160819
+      qiao001_1-0: 891741929084052082
+      qiao001_2-0: -1907088542620350648
+      qiao001_3-0: -9023898056474599765
+      qiao001_4-0: -8209999490315243385
+      shi001-0: -5623657614271001407
+      shi002-0: -5813894734423615561
+      shi003-0: 7860792386369014161
+      shidun001-0: -5232020818795490865
+      shidun002-0: -6931977449151892371
+      shitai001-0: -5270208746521739353
+      shitai002-0: -8235933496499500038
+      shitaijie-0: 437388480904137820
+      shu001-0: 6098006317970078950
+      shu002-0: -5509990734741369425
+      shu003-0: 4626188812801180690
+      shu004-0: 1475786959192192465
+      tengzi-0: -7393876629576460759
+      wei001-0: -4719999510994907461
+      wei002-0: 6520160822309818905
+      wei003-0: -7625397291853455042
+      weigan-0: -513241670656272672
+      wu001-0: -1316661142360602190
+      wu002-0: 9039425545310462397
+      wu003-0: -3088017692329826671
+      wu004-0: -2615126391589233862
+      xiaozhangpeng1-0: -1007672717508401434
+      xiaozhangpeng2-0: 5065297800278333187
+      xiaozhangpeng3-0: -7630358084107549398
+      xin001-0: 2905728634454446101
+      xin002-0: -5623264547931633295
+      xin003-0: 2992962605671608203
+      xin004-0: 3608316386797827680
+      xin005-0: -8040385983547569919
+      xin006-0: -3313622896668336013
+      xing007-0: 7718535023700593160
+      xinti-0: -5170121532772840828
+      xinti2-0: 560765028798696897
+      yidaoguan1-0: -6233803401041622012
+      yidaoguan2-0: -8003923735063745677
+      zhu001-0: 4967707315208913322
+      zhu002-0: -4639784227381124971
+      zhu003-0: -655356171988825578
+      zhu004-0: -6526297042497241646
+      zhusun1-0: 1132902573432325493
+      zhusun2-0: 8900131740511026714
+      zhusun3-0: -15471875073632954
+      zicaotai001-0: -613541718057023719
+      zicaotai002-0: 2934859056346557730
+      zicaotai003-0: -6439050349471805418
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

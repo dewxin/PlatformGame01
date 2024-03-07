@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/QQSG/Launcher.unity
+    guid: 5ee44f424db416846a82bb2a1bc9c353
+  - enabled: 1
+    path: "Assets/Scenes/QQSG/\u8700\u56FD/\u4F4E\u7EA7\u5730\u56FE/City_BaJunXiJiao.unity"
+    guid: 035c314f145bf3f4481c2a33a5a4f1db
+  - enabled: 0
+    path: "Assets/Scenes/QQSG/_\u5DE5\u5177/ResourceLoadScene.unity"
+    guid: 403194e9e0847ca47965516b0079ac00
+  - enabled: 1
+    path: "Assets/Scenes/QQSG/\u8700\u56FD/\u4F4E\u7EA7\u5730\u56FE/City_BaJun.unity"
+    guid: 16b0e89e0ebaa9f459290c97b7c14b83
+  - enabled: 0
+    path: Assets/GSN/new.unity
+    guid: 53de48171e99e9b4f83a28173e7f664e
+  m_configObjects: {}

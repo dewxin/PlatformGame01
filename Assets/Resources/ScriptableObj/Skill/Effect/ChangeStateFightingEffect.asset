@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e0a0861ce7e9944fbd251b9968572e5, type: 3}
+  m_Name: ChangeStateFightingEffect
+  m_EditorClassIdentifier: 
+  Duration: 10
+  AudioClip: {fileID: 8300000, guid: b8a37c3248777c34ba0dbac362880f29, type: 3}

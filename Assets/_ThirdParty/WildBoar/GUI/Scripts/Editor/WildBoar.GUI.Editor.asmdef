@@ -1,0 +1,19 @@
+{
+    "name": "WildBoar.GUI.Editor",
+    "rootNamespace": "WildBoar.GUI.Editor",
+    "references": [
+        "GUID:ab89175e53b9a7940a79d09d29a9e1f2",
+        "GUID:2c573e6b271651846a79655161004c5b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
